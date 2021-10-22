@@ -1,0 +1,15 @@
+Zippy:1
+
+api response: b'{"message":"Two"}'
+Chatty:Two
+
+Zippy:3
+
+api response: b'{"message":"Really, exactly three?"}'
+Chatty:Really, exactly three?
+
+Zippy:hello
+
+api response: b'{"message":"Hi, Loyal, do you need me to do translation for you?"}'
+Chatty:Hi, Loyal, do you need me to do translation for you?
+
